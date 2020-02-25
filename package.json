@@ -1,0 +1,14 @@
+{
+  "name": "bdec5bc15962a2ac",
+  "main": "bdec5bc15962a2ac@164.js",
+  "version": "164.0.0",
+  "homepage": "https://observablehq.com/d/bdec5bc15962a2ac",
+  "author": {
+    "name": "fikacschoko",
+    "url": "https://observablehq.com/@fikacschoko"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
